@@ -1,7 +1,33 @@
 html, body {
-  margin: 0;
+  margin: 5px;
   padding: 0;
 }
 canvas {
+  margin: 0 auto;
+  /* top: 200px; */
+  /* left: 0; */
+  /* position: absolute;  won't let it shift */
+  /* z-index: -20; */
   display: block;
+  border: 2px solid black;
+}
+
+h1 {
+  font-family: 'Bebas Neue';
+  text-align: center;
+  margin: 0;
+}
+
+h3 {
+  font-family: 'Aargh';
+  text-align: center;
+}
+
+p {
+  font-family: 'Datalegreya';
+  text-align: center;
+}
+
+div {
+  padding: 2px;
 }
