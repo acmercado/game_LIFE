@@ -19,7 +19,12 @@ h1 {
 }
 
 h3 {
-  font-family: 'Aargh';
+  font-family: 'Datalegreya';
+  text-align: center;
+}
+
+h4 {
+  font-family: 'Datalegreya';
   text-align: center;
 }
 
